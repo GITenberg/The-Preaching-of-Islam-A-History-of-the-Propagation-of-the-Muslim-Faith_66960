@@ -1,11 +1,16 @@
 _repo: The-Preaching-of-Islam-A-History-of-the-Propagation-of-the-Muslim-Faith_66960
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66960-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Arnold, T. W.
     gutenberg_agent_id: '54052'
     url: http://www.gutenberg.org/2009/agents/54052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66960#The-Preaching-of-Islam-A-History-of-the-Propagation-of-the-Muslim-Faith
 gutenberg_issued: '2021-12-17'
 identifiers:
   gutenberg: '66960'
